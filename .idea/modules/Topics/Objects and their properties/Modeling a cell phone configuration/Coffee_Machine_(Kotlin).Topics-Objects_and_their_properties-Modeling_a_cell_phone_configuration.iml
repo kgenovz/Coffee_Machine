@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Objects_and_their_properties-Modeling_a_cell_phone_configuration" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Objects and their properties/Modeling a cell phone configuration" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Coffee Machine (Kotlin)" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Objects and their properties/Modeling a cell phone configuration">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Objects and their properties/Modeling a cell phone configuration/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Objects and their properties/Modeling a cell phone configuration/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Objects and their properties/Modeling a cell phone configuration/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

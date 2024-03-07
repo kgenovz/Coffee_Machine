@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine (Kotlin)/task/build/
+/Coffee Machine (Kotlin)/task/out/
+/Coffee Machine (Kotlin)/task/out/production/classes/
+/Topics/Declaring classes/Create a Book object and return its description/out/
+/Topics/Declaring classes/Create a Book object and return its description/out/production/classes/
+/Topics/Enum/Currency comparison/out/
+/Topics/Enum/Currency comparison/out/production/classes/
+/Topics/Property accessors/Weather comparison/out/
+/Topics/Property accessors/Weather comparison/out/production/classes/
+/Topics/When expression/Floor-space of the room/out/
+/Topics/When expression/Floor-space of the room/out/production/classes/
+/Topics/When expression/Strings as objects/out/
+/Topics/When expression/Strings as objects/out/production/classes/

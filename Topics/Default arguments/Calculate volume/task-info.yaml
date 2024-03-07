@@ -1,0 +1,17 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    highlight_level: NONE
+    text: |-
+      fun getVolume(...){
+          //TODO
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4708#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 05 Mar 2024 20:51:54 UTC"
+record: -1
+submission_language: kotlin

@@ -1,0 +1,17 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    highlight_level: NONE
+    text: |-
+      fun url(host: String, port: Int): String {
+          // TODO
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7864#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 05 Mar 2024 21:09:02 UTC"
+record: -1
+submission_language: kotlin

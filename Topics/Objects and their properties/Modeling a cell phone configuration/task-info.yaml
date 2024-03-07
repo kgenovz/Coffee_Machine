@@ -1,0 +1,25 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |-
+      // Necessary import
+      import java.util.*
+      
+      // Create CellPhone class here:
+      
+      fun main(args: Array<String>) {
+          val scanner = Scanner(System.`in`)
+          val brandName = scanner.nextLine()
+          val version = scanner.nextLine()
+      
+          // Create and print CellPhone object here:
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41840#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 05 Mar 2024 03:34:36 UTC"
+record: -1
+submission_language: kotlin
